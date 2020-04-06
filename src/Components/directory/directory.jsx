@@ -10,74 +10,74 @@ class Directory extends React.Component{
             sections:[
                 {
                 title:'Bananas',
-                image: '../directory/staticimages/bunchbanana.jpg',
+                image: 'images/bunchbanana.jpg',
                 id: 1
                 },
                 {
                     title:'Grapes',
-                    image:'../directory/staticimages/bunchbanana.jpg',
+                    image: 'images/grapes.jpg',
                     id: 2
                     },
 
                     {
                         title:'Guavas',
-                        image:'../directory/staticimages/bunchbanana.jpg',
+                        image: 'images/guava-fruit.jpg',
                         id: 3
                         },
 
                         {
                             title:'Kiwi Fruits',
-                            image:'./staticimages/kiwifruits.jpg',
+                            image: 'images/kiwifruits.jpg',
                             id: 4
                             },
 
                             {
                                 title:'Lemons',
-                                image:'./staticimages/lemons.jpg',
+                                image: 'images/lemons.jpg',
                                 id: 5
                                 },
 
                                 {
                                     title:'Mangoes',
-                                    image:'./staticimages/mangoes.jpg',
+                                    image: 'images/mangoes.jpg',
                                     id: 6
                                     },
 
                                     {
                                         title:'Pomegranates',
-                                        image:'./staticimages/pomegranate.jpg',
+                                        image: 'images/pomegranate.jpg',
                                         id: 7
                                         },
 
 
                                         {
                                             title:'Ragus',
-                                            image:'./staticimages/ragus.jpg',
+                                            image: 'images/ragus.jpg',
                                             id: 8
                                             },
 
 
                                             {
                                                 title:'Sapotoes',
-                                                image:'../staticimages/sapota.jpg',
+                                                image: 'images/sapota.jpg',
                                                 id: 9
                                                 },
 
                                                 {
                                                     title:'Sweet Apples',
-                                                    image:'./staticimages/sweetApples.jpg',
+                                                    image: 'images/sweetApples.jpg',
                                                     id: 10
                                                     },
 
                                                     {
                                                         title:'Watermelon',
-                                                        image:'./staticimages/Watermelon.jpg',
+                                                        image: 'images/Watermelon.jpg',
                                                         id: 12
                                                         },
 
                                                         {
                                                             title:'Apples',
-                                                            image:'./staticimages/Apples.jpg',
+                                                            image: 'images/Apples.jpg',
                                                             id: 13
                                                             }                                               
             ]
