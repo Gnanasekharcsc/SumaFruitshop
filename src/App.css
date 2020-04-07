@@ -1,5 +1,9 @@
+
+
 h1{
-  font-family: Verdana, Geneva, Tahoma, sans-serif;
-  font-size: 5vw;
+  font-family: 'Playfair Display';
+  font-size: 72px;
   font-style: italic;
+  color: rgba(37, 73, 36, 0.89);
+  text-align: center;
 }
